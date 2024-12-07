@@ -1,17 +1,16 @@
-/* General Styling */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #F1F0E8;
-    color: #333;
+    background-color: #031716; 
+    color: #6BA3BE; 
 }
 
-/* Header Styling */
+/* Header */
 header {
-    background-color: #89A8B2;
-    color: #F1F0E8;
+    background-color: #032F30; 
+    color: #6BA3BE; 
     padding: 1.5rem 0;
     text-align: center;
 }
@@ -24,12 +23,12 @@ header img {
 
 /* Navigation Bar */
 nav {
-    background-color: #B3C8CF;
+    background-color: #0A7075; 
     padding: 0.75rem 0;
     text-align: center;
 }
 nav a {
-    color: #F1F0E8;
+    color: #6BA3BE; 
     text-decoration: none;
     margin: 0 1rem;
     font-weight: bold;
@@ -43,16 +42,17 @@ section {
     padding: 2rem;
     max-width: 800px;
     margin: auto;
-    background-color: #E5E1DA;
+    background-color: #0C969C; /
     border-radius: 8px;
     margin-bottom: 2rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #031716; 
 }
 
 /* Footer Styling */
 footer {
-    background-color: #89A8B2;
-    color: #F1F0E8;
+    background-color: #032F30; 
+    color: #274D60; 
     text-align: center;
     padding: 1rem 0;
     margin-top: 2rem;
