@@ -28,7 +28,7 @@ nav {
     text-align: center;
 }
 nav a {
-    color: #6BA3BE; /* Updated */
+    color: #6BA3BE; 
     text-decoration: none;
     margin: 0 1rem;
     font-weight: bold;
@@ -49,7 +49,7 @@ section {
     color: #031716; 
 }
 
-/* Footer Styling */
+/* Footer*/
 footer {
     background-color: #032F30; 
     color: #274D60; 
